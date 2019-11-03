@@ -1,0 +1,12 @@
+{
+  "extends": ["airbnb"],
+  "plugins": [],
+  "rules": {
+    "spaced-comment": "off",
+    "no-console": "warn",
+    "consistent-return": "off",
+    "func-names": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "no-fallthrough": "off"
+  }
+}
